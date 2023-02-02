@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/109021058/216270942-ea508182-f09f-48b7-b5a3-b0ee05ee052b.png" />
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+- 📫 How to reach me: <div >  <a href="https://www.linkedin.com/in/maxime-navarro-1ab202220/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+</div>
+
 
